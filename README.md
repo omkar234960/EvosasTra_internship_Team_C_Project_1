@@ -16,7 +16,7 @@ Generating meaningful visualizations for insights
 Understanding hiring trends across locations, job types, and posting dates
 
 This project is suitable for:
-✔ Data Science learning
-✔ Portfolio and resume projects
-✔ College submissions
-✔ Dashboard / ML model preparation
+1 Data Science learning
+2 Portfolio and resume projects
+3 College submissions
+4 Dashboard / ML model preparation
